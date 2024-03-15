@@ -1,4 +1,5 @@
 """
+
 URL configuration for djangoProject_01032024 project.
 
 
